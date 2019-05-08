@@ -3,5 +3,5 @@ var c = 10;
 
 a += c;
 
-console.log(a);
+console.log(a+c);
 console.log(c);
