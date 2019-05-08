@@ -4,7 +4,7 @@
 var a = 6;
 var b = 3;
 
-a += b;
+a -= b;
 
 console.log(a);
 console.log(b);
